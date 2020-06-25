@@ -1,0 +1,11 @@
+{
+  "name": "polyfills",
+  "version": "1.0.0",
+  "description": "JS polyfills",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishakha Nehe",
+  "license": "ISC"
+}
